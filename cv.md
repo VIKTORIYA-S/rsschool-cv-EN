@@ -31,24 +31,27 @@ Pedagogical University| Palace of Children's Creativity| Accompanist| 1990-2023
 ---
 ## Additional education:
 1. Courses in HTML, CSS and JavaScript.
-    1.1 [Certificate](front-end-javascript.jpg)
+    1.1 [Certificate](./img/front-end-javascript.jpg)
 
-    1.2 [Certificate](layout.png)
+    1.2 [Certificate](./img/layout.png)
 
-    1.3 [Certificate](javascript.png)
+    1.3 [Certificate](./img/javascript.png)
 
-2. Programming courses for beginners.   [Certificate](programmirovanie.png)
-3. Web design courses.   [Certificate](veb-designer.png)
+2. Programming courses for beginners.   [Certificate](./img/programmirovanie.png)
+3. Web design courses.   [Certificate](./img/veb-designer.png)
 4. Digital design UX/UI.
 
-    4.1 [Certificate](digital-design.png)
+    4.1 [Certificate](./img/digital-design.png)
 
-    4.2 [Certificate](ux-ui-start.jpeg)
+    4.2 [Certificate](./img/ux-ui-start.jpeg)
 
 ---
 ## My projects: 
+* [HTML5, CSS3, JavaScript:](https://rolling-scopes-school.github.io/viktoriya-s-JSFEPRESCHOOL2023Q2/random-game/)
+* [HTML5, CSS3, JavaScript:](https://rolling-scopes-school.github.io/viktoriya-s-JSFEPRESCHOOL2023Q2/image-galery/)
+* [HTML5, CSS3, JavaScript:](https://rolling-scopes-school.github.io/viktoriya-s-JSFEPRESCHOOL2023Q2/audio-player/)
+* [HTML5, CSS3, JavaScript:](https://rolling-scopes-school.github.io/viktoriya-s-JSFEPRESCHOOL2023Q2/library/)
 * [HTML5, CSS3, JavaScript:](https://viktoriya-s.github.io/music/)
-* [HTML5, CSS3](https://viktoriya-s.github.io/resume-new/) 
 * [HTML5, CSS3, JavaScript, UX/UI:](https://viktoriya-s.github.io/banderogys/)
 
 ---
